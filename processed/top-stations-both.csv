@@ -1,0 +1,43 @@
+station,count,station_location_latitude,station_location_longitude,direction
+burjuman,34066,25.254855,55.304252,Check-in
+burjuman,34066,25.254855,55.304252,Check-in
+al rigga,27856,25.263261,55.324122,Check-in
+union,26045,25.266335,55.313902,Check-in
+sharaf dg,22989,,,Check-in
+mall of the emirates,21928,25.121231,55.200443,Check-in
+business bay,21336,25.191274,55.260418,Check-in
+adcb,20699,25.244493,55.298195,Check-in
+burj khalifa/dubai mall,20643,25.2014,55.269518,Check-in
+city centre deira,20151,,,Check-in
+baniyas square,18374,25.269415,55.307602,Check-in
+dubai internet city,18333,25.102095,55.173781,Check-in
+dmcc,17403,25.070824,55.138672,Check-in
+centrepoint,17384,,,Check-in
+onpassive,16837,,,Check-in
+salah al din,16261,25.270345,55.320668,Check-in
+stadium,15266,25.277802,55.361579,Check-in
+al ghubaiba,14683,25.265085,55.288953,Check-in
+abu baker al siddique,14628,25.270903,55.332983,Check-in
+emirates towers,14236,25.217214,55.27982,Check-in
+sobha realty,13354,,,Check-in
+burjuman,29396,25.254855,55.304252,Check-out
+burjuman,29396,25.254855,55.304252,Check-out
+union,24956,25.266335,55.313902,Check-out
+al rigga,22576,25.263261,55.324122,Check-out
+city centre deira,19002,,,Check-out
+sharaf dg,18653,,,Check-out
+mall of the emirates,18648,25.121231,55.200443,Check-out
+burj khalifa/dubai mall,18273,25.2014,55.269518,Check-out
+adcb,18021,25.244493,55.298195,Check-out
+business bay,17962,25.191274,55.260418,Check-out
+onpassive,17180,,,Check-out
+dubai internet city,15598,25.102095,55.173781,Check-out
+centrepoint,15291,,,Check-out
+baniyas square,14871,25.269415,55.307602,Check-out
+salah al din,14022,25.270345,55.320668,Check-out
+stadium,13872,25.277802,55.361579,Check-out
+al ghubaiba,13286,25.265085,55.288953,Check-out
+dmcc,12687,25.070824,55.138672,Check-out
+sobha realty,12587,,,Check-out
+abu baker al siddique,12094,25.270903,55.332983,Check-out
+emirates towers,11743,25.217214,55.27982,Check-out
